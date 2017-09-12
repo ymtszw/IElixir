@@ -6,6 +6,6 @@ erl_crash.dump
 *.ez
 *.iml
 /ielixir
-test_db.sqlite3
+*.sqlite3
 .DS_store
 resources/ielixir/kernel.json
